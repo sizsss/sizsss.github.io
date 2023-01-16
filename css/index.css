@@ -4053,11 +4053,11 @@ h1.page-title + .tag-cloud-list {
 }
 #post .post-copyright:before {
   position: absolute;
-  top: 2px;
-  right: 12px;
-  color: #49b1f5;
+  top: -30px;
+  right: 7px;
+  color: rgba(73,177,245,0.561);
   content: '\f1f9';
-  font-size: 1.3em;
+  font-size: 5em;
 }
 #post .post-copyright:hover {
   -webkit-box-shadow: 0 0 8px 0 rgba(232,237,250,0.6), 0 2px 4px 0 rgba(232,237,250,0.5);
