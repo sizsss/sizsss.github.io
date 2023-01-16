@@ -18,17 +18,6 @@ function loadData(name, time) {
 
 // 上面两个函数如果你有其他需要存取数据的功能，也可以直接使用
 
-function whenDOMReady() {
-    // 背景localstorage
-    try {
-        let data = loadData('blogbg', 1440)
-        if (data) changeBg(data, 1)
-        else localStorage.removeItem('blogbg');
-    } catch (error) { localStorage.removeItem('blogbg'); }
-}
-whenDOMReady()
-document.addEventListener("pjax:success", whenDOMReady)
-
 // 读取背景
 try {
     let data = loadData('blogbg', 1440)
