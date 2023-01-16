@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Sizss的小站</title>
+  <icon>http://sizss.com/icon.png</icon>
+  <subtitle>保持热爱，奔赴星海</subtitle>
+  <link href="http://sizss.com/atom.xml" rel="self"/>
+  
+  <link href="http://sizss.com/"/>
+  <updated>2023-01-16T12:45:36.757Z</updated>
+  <id>http://sizss.com/</id>
+  
+  <author>
+    <name>Sizss</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>序</title>
+    <link href="http://sizss.com/blogs/000/"/>
+    <id>http://sizss.com/blogs/000/</id>
+    <published>2023-01-01T00:00:00.000Z</published>
+    <updated>2023-01-16T12:45:36.757Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;写在最前面&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="序" scheme="http://sizss.com/tags/%E5%BA%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>硬解定理</title>
+    <link href="http://sizss.com/blogs/001/"/>
+    <id>http://sizss.com/blogs/001/</id>
+    <published>2022-12-05T22:49:11.000Z</published>
+    <updated>2023-01-16T12:45:36.757Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;高考圆锥曲线常考椭圆，椭圆与直线的联立有固定的模式，借用口诀可以快速记下公式，简化计算&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    <category term="数学" scheme="http://sizss.com/categories/%E6%95%B0%E5%AD%A6/"/>
+    
+    
+    <category term="数学" scheme="http://sizss.com/tags/%E6%95%B0%E5%AD%A6/"/>
+    
+    <category term="圆锥曲线" scheme="http://sizss.com/tags/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://sizss.com/blogs/hello-world/"/>
+    <id>http://sizss.com/blogs/hello-world/</id>
+    <published>2022-12-01T00:00:00.000Z</published>
+    <updated>2023-01-16T12:45:36.757Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
