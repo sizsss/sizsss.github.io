@@ -215,3 +215,41 @@
   div#category {
     background: rgba(255, 255, 255, 0.8);
   }
+
+
+/*夜间模式伪类遮罩层透明*/
+[data-theme="dark"] #recent-posts > .recent-post-item {
+  background: #121212;
+}
+
+[data-theme="dark"] .card-widget {
+  background: #121212 !important;
+}
+
+[data-theme="dark"] div#post {
+  background: #121212 !important;
+}
+
+[data-theme="dark"] div#tag {
+  background: #121212 !important;
+}
+
+[data-theme="dark"] div#archive {
+  background: #121212 !important;
+}
+
+[data-theme="dark"] div#page {
+  background: #121212 !important;
+}
+
+[data-theme="dark"] div#category {
+  background: #121212 !important;
+}
+
+[data-theme="dark"] div#category {
+  background: transparent !important;
+}
+/* 页脚透明 */
+#footer {
+  background: transparent !important;
+}
