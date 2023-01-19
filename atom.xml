@@ -28,8 +28,7 @@
       
         
         
-    <summary type="html">&lt;h2 id=&quot;写在最前面&quot;&gt;写在最前面&lt;/h2&gt;
-&lt;p&gt;记得是2021年初，偶然看到了一个搭建 Hexo</summary>
+    <summary type="html">&lt;h2 id=&quot;写在最前面&quot;&gt;&lt;a href=&quot;#写在最前面&quot; class=&quot;headerlink&quot; title=&quot;写在最前面&quot;&gt;&lt;/a&gt;写在最前面&lt;/h2&gt;&lt;p&gt;记得是2021年初，偶然看到了一个搭建 Hexo</summary>
         
       
     
@@ -41,34 +40,11 @@
   </entry>
   
   <entry>
-    <title>硬解定理</title>
-    <link href="http://sizss.com/blogs/001/"/>
-    <id>http://sizss.com/blogs/001/</id>
-    <published>2022-12-05T14:49:11.000Z</published>
-    <updated>2023-01-19T12:37:50.799Z</updated>
-    
-    
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;高考圆锥曲线常考椭圆，椭圆与直线的联立有固定的模式，借用口诀可以快速记下公式，简化计算&lt;/p&gt;
-&lt;/blockquote&gt;</summary>
-    
-    
-    
-    <category term="数学" scheme="http://sizss.com/categories/%E6%95%B0%E5%AD%A6/"/>
-    
-    
-    <category term="数学" scheme="http://sizss.com/tags/%E6%95%B0%E5%AD%A6/"/>
-    
-    <category term="圆锥曲线" scheme="http://sizss.com/tags/%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Hello World</title>
     <link href="http://sizss.com/blogs/hello-world/"/>
     <id>http://sizss.com/blogs/hello-world/</id>
     <published>2022-11-30T16:00:00.000Z</published>
-    <updated>2023-01-19T12:37:50.799Z</updated>
+    <updated>2023-01-19T12:44:02.480Z</updated>
     
     
       
